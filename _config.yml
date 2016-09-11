@@ -37,8 +37,6 @@ banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
     theme: '#2ca6cb'    ##the defaut theme color is blue
-    stylus:
-      compress: true
 
 # 代码高亮主题
 # available: default | night
