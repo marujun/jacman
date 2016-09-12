@@ -15,6 +15,7 @@ widgets:
 #- github-card
 - category
 - tagcloud
+- aboutme
 #- links
 #- douban
 #- rss
